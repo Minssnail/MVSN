@@ -1,0 +1,2 @@
+ATR label
+https://github.com/lemondan/HumanParsing-Dataset/blob/master/atr_label.txt
